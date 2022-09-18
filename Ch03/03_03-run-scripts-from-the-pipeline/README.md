@@ -1,5 +1,5 @@
-![Build Status](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/buildStatus/icon?job=app-cond-pip)
 
+[![Build Status](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/buildStatus/icon?job=app-cond-pip)](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/job/app-cond-pip/)
 
 
 # 03_03 Run scripts from the pipeline
