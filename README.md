@@ -1,6 +1,7 @@
 
 [![Build Status](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/buildStatus/icon?job=app-cond-pip)](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/job/app-cond-pip/)
 
+[![Build Status](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/job/app-cond-pip/badge/icon)](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/job/app-cond-pip/)
 
 # Jenkins Essential Training
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
