@@ -1,5 +1,9 @@
 # 03_03 Run scripts from the pipeline
 
+
+[![Build Status](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/buildStatus/icon?job=app-cond-pip)](https://jenkins-ue-jenkins.apps.bop-test.kni.syseng.devcluster.openshift.com/job/app-cond-pip/)
+
+
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
 ## Pipeline steps for calling scripts
