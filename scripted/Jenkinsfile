@@ -5,4 +5,9 @@ node {
   echo "git branch: ${gitBranch}"
   echo "build number: ${buildNumber}"
   echo "param: ${cdRepo}"
+  
+  stage('Init workspace')
+  {
+     echo "hello dev-123 branch"
+  }
 }
