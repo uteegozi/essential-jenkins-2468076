@@ -1,0 +1,8 @@
+node {
+  def gitBranch = "${env.BRANCH_NAME}"
+  def buildNumber = "${env.BUILD_NUMBER}"
+  def cdRepo  = "${params.GITOPS_CD_REPO}"
+  echo "git branch: ${gitBranch}"
+  echo "build number: ${buildNumber}"
+  echo "param: ${cdRepo}"
+}
